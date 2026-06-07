@@ -39,3 +39,6 @@ jobs:
 
       - name: Verify Specify CLI
         run: specify version
+
+      - name: Initiate Specify
+        run: specify init test
