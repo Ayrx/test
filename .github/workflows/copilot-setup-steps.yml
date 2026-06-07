@@ -41,4 +41,4 @@ jobs:
         run: specify version
 
       - name: Initiate Specify
-        run: specify init test
+        run: specify init test --integration copilot
